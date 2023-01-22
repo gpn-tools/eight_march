@@ -26,7 +26,7 @@
 
 ![2023-01-22 15 44 51](https://user-images.githubusercontent.com/123303575/213917400-ade4059b-8d2f-4a5a-8c41-22e9bef1fce4.png)
 
-Пример установки и работы с программой:
+Пример установки и работы с программой на телефоне:
 
 https://user-images.githubusercontent.com/123303575/213918239-89038c74-18d3-4eda-b2c5-340c56e17fb6.mp4
 
