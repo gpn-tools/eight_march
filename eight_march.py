@@ -19,8 +19,8 @@ payment = int(qty_staff_w*budget_per_w_person/qty_staff_m)
      
 print('\nВ этом году 8 марта это ', days_of_week[day_of_week_8_march], '. Поздравлять надо в(во) ', days_of_week[day_of_compliment], ' (',date_of_compliment.strftime('%d.%m.%Y'), ')\n', sep='')
 print('Всего женщин в этом году - ', qty_staff_w, sep='')
-print('Всего мужчин в этом году - ', qty_staff_w, '\n', sep='')
-print('Бюджет на одну даму установлен равным ', budget_per_w_person, ' руб. Каждый участник поздравления должен будет сдать ', payment , ' руб.\n', sep='')
+print('Всего мужчин в этом году - ', qty_staff_m, '\n', sep='')
+print('Бюджет на одну женщину установлен равным ', budget_per_w_person, ' руб. Каждый участник поздравления должен будет сдать ', payment , ' руб.\n', sep='')
 #pdb.set_trace()
 
 print('Распределение людей по подготовительным задачам следующее: \n')
