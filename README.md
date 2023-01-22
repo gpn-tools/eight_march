@@ -28,5 +28,6 @@
 
 Пример установки и работы с программой:
 
-https://user-images.githubusercontent.com/123303575/213917257-54f502ea-e8e3-45e8-977c-7d3db8c6a927.mp4
+https://user-images.githubusercontent.com/123303575/213918239-89038c74-18d3-4eda-b2c5-340c56e17fb6.mp4
+
 
