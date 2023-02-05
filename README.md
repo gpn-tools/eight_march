@@ -25,7 +25,7 @@
 
 Пример результата работы программы показан ниже:
 
-![2023-01-22 15 44 51](https://user-images.githubusercontent.com/123303575/213917400-ade4059b-8d2f-4a5a-8c41-22e9bef1fce4.png)
+![Image 001](https://user-images.githubusercontent.com/123303575/216831276-ea649d97-903b-483d-8f3e-bdfe0731b2ac.png)
 
 Пример установки и работы с программой на телефоне:
 
