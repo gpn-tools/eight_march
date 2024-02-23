@@ -48,7 +48,12 @@ if len(fixed_assignment) > 0:
 print('Распределение добровольцев по подготовительным задачам следующее:')
 print_results(assignment_result)
 
-random.seed()
+# смещение генератора случайных чисел
+if os_default_seed == True: 
+    random.seed()
+else:
+    random.seed(datetime.date.today().year)
+    
 assignment_result = []
 for task in tasks:
     random_number = random.randint(0, len(staff_m)-1)
